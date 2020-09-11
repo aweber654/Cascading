@@ -1,0 +1,25 @@
+#skills {
+  background: green;
+  padding: 1px;
+  text-align: center;
+}
+
+.skills-wrapper {
+
+  width: 49.5%;
+  float: left;
+  text-align: left;
+  background: #fff;
+
+  color: red;
+  
+  border: 2px solid black;
+
+  
+}
+
+#computer-skills {
+  border-color: red;
+  background: blue;
+  color: black;
+}
